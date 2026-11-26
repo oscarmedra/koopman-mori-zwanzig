@@ -1,10 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24558011.svg)](https://doi.org/10.5281/zenodo.24558011)
+
 # KMZ : réduction de modèles Koopman–Mori-Zwanzig, preuves formelles Lean et bibliothèque Python
 
 *KMZ: Koopman–Mori-Zwanzig model reduction, Lean formal proofs and Python library*
 
 **Auteurs / Authors :** Nouha DRAME ([ORCID 0009-0003-6018-9802](https://orcid.org/0009-0003-6018-9802)), Déthié DIONE, encadrant / supervisor ([ORCID 0000-0002-9872-2479](https://orcid.org/0000-0002-9872-2479)) — PIED / UNCHK
 
-**Dépôt / Repository :** https://github.com/oscarmedra/koopman-mori-zwanzig · **DOI :** `[DOI Zenodo, à ajouter après la première release]`
+**Dépôt / Repository :** https://github.com/oscarmedra/koopman-mori-zwanzig · **DOI :** [10.5281/zenodo.24558011](https://doi.org/10.5281/zenodo.24558011)
 
 Ce dépôt accompagne l'article de N. DRAME et D. DIONE (en préparation, 2026). Il contient :
 This repository accompanies the paper by N. DRAME and D. DIONE (in preparation, 2026). It contains:
@@ -71,7 +73,7 @@ Documentation : `python/README.md` et `python/tutorial/TUTORIAL.md`.
 
 ## Citer / How to cite
 
-Voir `CITATION.cff` (bouton « Cite this repository » sur GitHub) et le DOI Zenodo : `[DOI Zenodo]`.
+Voir `CITATION.cff` (bouton « Cite this repository » sur GitHub) et le DOI Zenodo : [10.5281/zenodo.24558011](https://doi.org/10.5281/zenodo.24558011) (version 1.2).
 See `CITATION.cff` and the Zenodo DOI.
 
 ## Licence / License
