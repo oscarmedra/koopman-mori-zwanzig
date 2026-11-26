@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "Si vous utilisez ce code ou ces preuves, merci de les citer ainsi / If you use this software, please cite it as below."
 title: "KMZ: Koopman–Mori-Zwanzig model reduction, Lean formal proofs and Python library"
-version: "0.2.2"
+version: "1.2"
 date-released: "2026-11-26"
 license: MIT
 repository-code: "https://github.com/oscarmedra/koopman-mori-zwanzig"
-# doi: "10.5281/zenodo.XXXXXXX"   # à ajouter après la première release Zenodo
+doi: "10.5281/zenodo.24558011"
 authors:
   - family-names: "Drame"
     given-names: "Nouha"
@@ -13,7 +13,7 @@ authors:
     affiliation: "PIED, Université numérique Cheikh Hamidou Kane (UNCHK)"
   - family-names: "Dione"
     given-names: "Déthié"
-    orcid: "https://orcid.org/0000-0002-6308-7276"
+    orcid: "https://orcid.org/0000-0002-9872-2479"
     affiliation: "PIED, Université numérique Cheikh Hamidou Kane (UNCHK)"
 keywords:
   - Koopman operator
@@ -21,3 +21,4 @@ keywords:
   - model reduction
   - Lean 4
   - formal verification
+ 
