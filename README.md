@@ -1,9 +1,13 @@
-# KMZ — Koopman–Mori–Zwanzig : code et preuves formelles / code and formal proofs
+# KMZ : réduction de modèles Koopman–Mori-Zwanzig, preuves formelles Lean et bibliothèque Python
 
-> **À compléter avant publication / To fill in before release :** `[NOM Prénom]`, `[ORCID]`, `[titre de l'article]`, `[DOI]`.
+*KMZ: Koopman–Mori-Zwanzig model reduction, Lean formal proofs and Python library*
 
-Ce dépôt accompagne l'article *[titre de l'article]* ([NOM Prénom], 2026). Il contient :
-This repository accompanies the paper *[paper title]* ([Name], 2026). It contains:
+**Auteurs / Authors :** Nouha DRAME ([ORCID 0009-0003-6018-9802](https://orcid.org/0009-0003-6018-9802)), Déthié DIONE, encadrant / supervisor ([ORCID 0000-0002-9872-2479](https://orcid.org/0000-0002-9872-2479)) — PIED / UNCHK
+
+**Dépôt / Repository :** https://github.com/oscarmedra/koopman-mori-zwanzig · **DOI :** `[DOI Zenodo, à ajouter après la première release]`
+
+Ce dépôt accompagne l'article de N. DRAME et D. DIONE (en préparation, 2026). Il contient :
+This repository accompanies the paper by N. DRAME and D. DIONE (in preparation, 2026). It contains:
 
 | Dossier / Folder | Contenu / Content |
 |---|---|
@@ -67,10 +71,9 @@ Documentation : `python/README.md` et `python/tutorial/TUTORIAL.md`.
 
 ## Citer / How to cite
 
-Voir `CITATION.cff` (bouton « Cite this repository » sur GitHub) et le DOI Zenodo : `[DOI]`.
+Voir `CITATION.cff` (bouton « Cite this repository » sur GitHub) et le DOI Zenodo : `[DOI Zenodo]`.
 See `CITATION.cff` and the Zenodo DOI.
 
 ## Licence / License
 
 MIT, voir `LICENSE`.
-# koopman-mori-zwanzig
