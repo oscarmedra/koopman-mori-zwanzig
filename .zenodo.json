@@ -1,0 +1,15 @@
+{
+  "title": "KMZ: Koopman–Mori-Zwanzig code and Lean 4 formal proofs",
+  "upload_type": "software",
+  "description": "Python library kmz (prediction and analysis of nonlinear dynamical systems from data via the Koopman operator and the Mori–Zwanzig formalism) and Lean 4 + Mathlib formal proofs (memory-kernel bounds, memory = residual autocorrelation, exact discrete Mori–Zwanzig identity) accompanying the paper.",
+  "creators": [
+    {
+      "name": "[NOM], [Prénom]",
+      "affiliation": "[Laboratoire, Université]",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["Koopman operator", "Mori-Zwanzig formalism", "model reduction", "Lean 4", "formal verification"],
+  "version": "0.2.2"
+}

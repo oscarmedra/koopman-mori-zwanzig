@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ce code ou ces preuves, merci de citer / If you use this software, please cite it as below."
+title: "KMZ: Koopman–Mori–Zwanzig code and Lean 4 formal proofs"
+version: "0.2.2"
+date-released: "2026-11-26"
+license: MIT
+repository-code: "https://github.com/[UTILISATEUR]/[DEPOT]"
+# doi: "10.5281/zenodo.XXXXXXX"   # à ajouter après la première publication Zenodo
+authors:
+  - family-names: "[NOM]"
+    given-names: "[Prénom]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # à remplacer par votre ORCID
+    affiliation: "[Laboratoire, Université]"
+keywords:
+  - Koopman operator
+  - Mori-Zwanzig formalism
+  - model reduction
+  - Lean 4
+  - formal verification

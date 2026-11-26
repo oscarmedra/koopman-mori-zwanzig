@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kmz"
+version = "0.2.2"
+description = "Prediction and analysis of nonlinear dynamical systems from data: Koopman operator and Mori–Zwanzig formalism"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.22"]
+
+[project.optional-dependencies]
+plots = ["matplotlib>=3.5"]
+tests = ["pytest>=7", "matplotlib>=3.5"]
+
+[tool.setuptools]
+packages = ["kmz"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
